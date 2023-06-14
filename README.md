@@ -4,4 +4,4 @@ The goal of this project was to visualize the data about Data Analyst/BI Analyst
 
 Csv-file with data parsed from LinkedIn was used as a sourse.
 
-[Findings are presented as a dashbord here.](https://public.tableau.com/app/profile/yana5224/viz/shared/DDHHBFGTR)
+[Findings are presented as a dashbord here.](https://public.tableau.com/app/profile/yanakoyo/viz/shared/DDHHBFGTR)
